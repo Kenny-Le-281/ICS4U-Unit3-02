@@ -29,4 +29,5 @@ if (!isNaN(userNumber)) {
   // Shows if the number is invalid
   console.log('Invalid Input!')
 }
+
 console.log('\nDone.')
